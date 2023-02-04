@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Yogi
-- 👀 I’m interested in Datas
-- 🌱 I’m currently on a journey to be Data Scientist
-- 💞️ I’m looking to collaborate on everyone
+
 
 
 <!---
